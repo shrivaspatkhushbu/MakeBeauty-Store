@@ -27,7 +27,8 @@ Dive deeper into your favorite products by clicking through to their dedicated p
 <h1>Footer:</h1>
 <p>
 Find additional resources and information in our footer section, including links to FAQs and contact details. We're committed to providing exceptional service and support throughout your beauty journey.</p>
-![Screenshot (466)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/d690ea70-4e6e-447d-b5f8-de801dfc353f)
+![Screenshot (466)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/db505939-4dc5-4493-8258-4d9987e20ad7)
+
 <p>
 Responsive Design:
 Experience MakeBeauty seamlessly across all devices, from desktop computers to mobile phones and tablets. Our website is designed to adapt to your screen size, ensuring a consistent and enjoyable browsing experience no matter where you are.
