@@ -6,7 +6,7 @@ Welcome to MakeBeauty - your go-to destination for all things glamorous and gorg
  </p>
 <h1>Homepage:</h1>
 <p>As you arrive at MakeBeauty's homepage, you'll be greeted with stunning visuals that promise an unforgettable beauty experience. Our clean and intuitive layout guides you effortlessly through our carefully curated selection, inviting you to explore further.</p>
-![Screenshot (459)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/a0c4b7d8-bb06-48fb-8373-4efab1fa3fa5)
+
 
 <p>
 Navigation Bar:
@@ -18,6 +18,7 @@ Navigate effortlessly with our sleek navigation bar at the top of the page. Disc
 Product Pages:
 Dive deeper into your favorite products by clicking through to their dedicated pages. Here, you'll find comprehensive details, including ingredients and usage instructions, alongside stunning images that showcase each item's beauty.</p>
 
+![Screenshot (461)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/0f3f3fbe-d318-4cdd-bc04-4ed9c043d8a0)
 
 <h1>Combos and Bundles:</h1>
 <p>Explore our curated combos and bundles section for unbeatable value and convenience. Whether you're looking for a complete makeup set or a fragrance duo perfect for gifting, our thoughtfully curated collections offer something for every beauty enthusiast.</p>
