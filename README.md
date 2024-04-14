@@ -16,7 +16,7 @@ Navigate effortlessly with our sleek navigation bar at the top of the page. Disc
 
 Product Pages:
 Dive deeper into your favorite products by clicking through to their dedicated pages. Here, you'll find comprehensive details, including ingredients and usage instructions, alongside stunning images that showcase each item's beauty.</p>
-![Screenshot (461)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/0fc2b6f9-d8a4-4402-a8e3-6720eb6d29b3)
+
 
 <h1>Combos and Bundles:</h1>
 <p>Explore our curated combos and bundles section for unbeatable value and convenience. Whether you're looking for a complete makeup set or a fragrance duo perfect for gifting, our thoughtfully curated collections offer something for every beauty enthusiast.</p>
