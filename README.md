@@ -1,10 +1,10 @@
-# MakeBeauty-Store
+![Screenshot (459)](https://github.com/shrivaspatkhushbu/MakeBeauty-Store/assets/156420014/f2b68db7-ea72-4226-aba6-76faa85ae8d0)# MakeBeauty-Store
  "Welcome to MakeBeauty - where glamour meets grace! Discover exquisite cosmetics, captivating fragrances &amp; irresistible combos, all curated to enhance your natural beauty. Shop now &amp; elevate your allure!"
 Welcome to MakeBeauty - your go-to destination for all things glamorous and gorgeous! Step into a world of exquisite cosmetics, captivating fragrances, and irresistible combos, all crafted to enhance your natural beauty. Our e-commerce platform, built with HTML, CSS, and Bootstrap, ensures a seamless and visually stunning browsing experience as you explore our diverse range of products.
 
 Homepage:
 As you arrive at MakeBeauty's homepage, you'll be greeted with stunning visuals that promise an unforgettable beauty experience. Our clean and intuitive layout guides you effortlessly through our carefully curated selection, inviting you to explore further.
-
+<img align="rigth alt ="coding" width ="400" src ="Screenshot (459).png…/>
 Navigation Bar:
 Navigate effortlessly with our sleek navigation bar at the top of the page. Discover categories such as cosmetics, fragrances, skincare, haircare, and more. Dive into our special offers and trending products for the latest beauty trends and must-have essentials.
 
